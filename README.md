@@ -18,4 +18,8 @@ NMRbox is currently running HTCondor version 10. We expect to upgrade to HTCondo
 See the [NMRbox HtCondor tutorial](https://github.com/NMRbox/htcondor-tutorial) for a walkthrough on how to
 use the NMRbox environment.
 
+## Quickstart
+For more information on HTCondor, see 
+the [HTCondor quickstart](https://htcondor.readthedocs.io/en/latest/users-manual/quick-start-guide.html" )
+guide.
 
