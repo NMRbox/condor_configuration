@@ -12,7 +12,7 @@ The following attributes are defined on NMRbox:
     - *CcpNmr Analysis Assign* is implemented as **CCPNMRANALYSISASSIGN**. 
 
 ## Version
-NMRbox is currently running HTCondor version 10. We expect to upgrade to HTCondor 23 late 2023 or early 2024.
+NMRbox is currently running HTCondor version 10. We expect to upgrade to HTCondor 23 late in  early 2024.
 
 ## Tutorial
 See the [NMRbox HtCondor tutorial](https://github.com/NMRbox/htcondor-tutorial) for a walkthrough on how to
